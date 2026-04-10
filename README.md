@@ -1,6 +1,6 @@
 ﻿# IAMLab
 
-Active Directory IAM homelab built on Citadel (Proxmox). Covers provisioning and deprovisioning workflows, OU and group structure following least-privilege, quarterly access review simulation, and GPO-based access control by department.
+Active Directory IAM homelab built on Proxmox. Covers provisioning and deprovisioning workflows, OU and group structure following least-privilege, quarterly access review simulation, and GPO-based access control by department.
 
 ## Blog Post
 [Building an IAM Lab on Citadel](https://blog.slytech.us/iam-lab-citadel)
