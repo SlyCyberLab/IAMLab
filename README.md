@@ -18,8 +18,8 @@ Active Directory IAM homelab built on Proxmox. Covers provisioning and deprovisi
 ## Lab Infrastructure
 - dc01: Windows Server 2025, AD DS, DNS, GPO
 - fs01: Windows Server 2025, department file shares
-- win11-workstation: Sales department endpoint
-- win11-standalone: IT department endpoint
+- WS01: Sales department endpoint
+- WS02: IT department endpoint
 
 ## Tools
 Active Directory, PowerShell, Group Policy, Windows Server 2025
