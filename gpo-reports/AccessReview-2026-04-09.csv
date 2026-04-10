@@ -1,0 +1,11 @@
+"DisplayName","SamAccountName","Department","Title","Enabled","Created","LastLogon","DaysSinceLogon","StaleFlag","GroupMemberships","Description"
+,"jsmith",,,"True","11/25/2025 4:13:58 PM",,,"YES - NEVER LOGGED ON","Production-Staff",
+,"jdoe",,,"True","11/25/2025 4:13:58 PM",,,"YES - NEVER LOGGED ON","Engineering",
+,"bwilson",,,"True","11/25/2025 4:13:58 PM",,,"YES - NEVER LOGGED ON","Sales",
+,"ajohnson",,,"True","11/25/2025 4:13:58 PM",,,"YES - NEVER LOGGED ON","HR",
+,"secadmin",,,"True","11/25/2025 4:13:58 PM","3/14/2026 8:38:52 PM","25","No","IT-Admins; Domain Admins",
+"Marcus Webb","mwebb","Sales","Account Executive","True","4/9/2026 7:55:26 PM",,,"YES - NEVER LOGGED ON","FileShare-Sales-RW; Sales-Users",
+"Diana Cruz","dcruz","Sales","Sales Manager","True","4/9/2026 7:57:47 PM",,,"YES - NEVER LOGGED ON","FileShare-Sales-RW; Sales-Users",
+"Jordan Blake","jblake","Sales","Sales Coordinator","False","4/9/2026 7:57:57 PM",,,"YES - NEVER LOGGED ON","","OFFBOARDED: 2026-04-09 | Ticket: REQ-2001 | Approved: Administrator"
+"Riley Holt","rholt","IT","Systems Administrator","True","4/9/2026 7:58:04 PM",,,"YES - NEVER LOGGED ON","FileShare-IT-RW; FileShare-Sales-Read; IT-Users",
+"Casey Novak","cnovak","IT","Help Desk Technician","True","4/9/2026 7:58:22 PM",,,"YES - NEVER LOGGED ON","FileShare-IT-RW; FileShare-Sales-Read; IT-Users",
